@@ -314,10 +314,19 @@ h6{
     margin-left: 85px;
 }
 #correuu {
-    margin-left: 1805px;
+    margin-left: 10px;
+}
+#apodo {
+    margin-left: 107px;
 }
 .comprobarEmail {
     margin-left: -15px;
+}
+#pass1 {
+    margin-left: 50px;
+}
+#pass2 {
+    margin-left: -60px;
 }
 
 #tercera {
@@ -340,8 +349,11 @@ button {
 #imagen {
     display: block; /* Hacer que el error sea un elemento de bloque */
     margin-top: 5px; /* Ajustar el margen superior para que aparezca en la siguiente línea */
-    margin-bottom: 5px;
+    margin-bottom: 30px;
     color: red; /* Cambiar el color del texto del error si lo deseas */
+}
+#agradat {
+    margin-top: 30px;
 }
 
 .iconsdiv {
